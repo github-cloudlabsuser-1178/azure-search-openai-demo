@@ -1,5 +1,13 @@
 # Backend
 
+## Table of Contents
+
+- [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Running the Backend](#running-the-backend)
+
+
 This is the backend of our application.
 
 ## Setup
